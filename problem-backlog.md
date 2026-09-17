@@ -11,8 +11,8 @@ mỗi người sẽ tự xử lý theo một kiểu — và đó là nguồn l�
 
 | Mã | Tóm tắt | Loại | Mục guideline | Trạng thái | Kết quả |
 |---|---|---|---|---|---|
-| [P-001](#p-001) |Dây điện xuất hiện trên vùng bầu trời | Guideline mơ hồ | §2, §3, §6 — Rule 03 | 🔴 Mở |  |
-| [P-002](#p-002) | Xe ở quá xa, không thể xác định rõ class | Guideline chưa nói tới |§3 — OBJECT NHỎ/XA; §4 — car vs truck vs bus; §6; §9 | 🔴 Mở| — |
+| [P-001](#p-001) |Dây điện xuất hiện trên vùng bầu trời | Guideline mơ hồ | §2, §3, §6 — Rule 03 | 🔴 Mở | ↗️ Hỏi BTC |
+| [P-002](#p-002) | Xe ở quá xa, không thể xác định rõ class | Guideline chưa nói tới |§3 — OBJECT NHỎ/XA; §4 — car vs truck vs bus; §6; §9 | 🔴 Mở| ↗️ Hỏi BTC |
 
 **Loại**
 
