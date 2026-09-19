@@ -23,7 +23,7 @@
 | 1 | Job 1554 — 25 ảnh | Nguyễn Tuấn Minh | Nguyễn Vũ Quang Minh | 🟡 50% | Chờ Review  |
 | 2 | Job 1557 — 25 ảnh | Hoàng Trần Minh Đức | Nguyễn Lâm Bách | 🟡 36% | Chưa làm xong |
 | 3 | Job 1556 — 25 ảnh | Nguyễn Lâm Bách | Hoàng Trần Minh Đức|  ⬜ | Chưa làm |
-| 4 | Job 1559 — 25 ảnh | Nguyễn Vũ Quang Minh | Nguyễn Tuấn Minh | ⬜ 0% | Chưa làm |
+| 4 | Job 1559 — 25 ảnh | Nguyễn Vũ Quang Minh | Nguyễn Tuấn Minh | 🟡 38% | Chưa làm xong |
 | 5 | Đọc lại Annotation Guideline và gom các ca chưa rõ| Vũ Huy Hoàng| | ⬜ |  |  |
 
 Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) · ⛔ bị chặn (ghi lý do) · ⬜ chưa bắt đầu
