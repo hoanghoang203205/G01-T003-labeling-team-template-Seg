@@ -20,18 +20,18 @@
 
 | # | Nội dung công việc | Annotator | Reviewer | Hoàn thành | Ghi chú |
 |---|---|---|---|---|---|
-| 1 | Job 1554 — 25 ảnh | Nguyễn Tuấn Minh | Nguyễn Vũ Quang Minh | 🟡 50% | Chờ Review  |
-| 2 | Job 1557 — 25 ảnh | Hoàng Trần Minh Đức | Nguyễn Lâm Bách | 🟡 36% | Chưa làm xong |
-| 3 | Job 1556 — 25 ảnh | Nguyễn Lâm Bách | Hoàng Trần Minh Đức|  ⬜ | Chưa làm |
-| 4 | Job 1559 — 25 ảnh | Nguyễn Vũ Quang Minh | Nguyễn Tuấn Minh | 🟡 38% | Chưa làm xong |
-| 5 | Đọc lại Annotation Guideline và gom các ca chưa rõ| Vũ Huy Hoàng| | ⬜ |  |  |
+| 1 | Job 1554 — 25 ảnh | Nguyễn Tuấn Minh | Nguyễn Vũ Quang Minh | ✅ xong |   |
+| 2 | Job 1557 — 25 ảnh | Hoàng Trần Minh Đức | Nguyễn Lâm Bách | ✅ xong |  |
+| 3 | Job 1556 — 25 ảnh | Nguyễn Lâm Bách | Hoàng Trần Minh Đức|  🟡 36% | Chưa làm xong|
+| 4 | Job 1559 — 25 ảnh | Nguyễn Vũ Quang Minh | Nguyễn Tuấn Minh | 🟡 56% | Chưa làm xong |
+| 5 | Đọc lại Annotation Guideline và gom các ca chưa rõ| Vũ Huy Hoàng| | ✅ xong |  |  |
 
 Mức hoàn thành: ✅ xong **và đã qua review** · 🟡 đang làm (ghi %) · ⛔ bị chặn (ghi lý do) · ⬜ chưa bắt đầu
 
 ## Tổng kết
 
-- Đã gán: 34 / 100 ảnh (34%)
-- Qua review lần đầu: 0% (trả lại 0 ảnh)
+- Đã gán: 73 / 100 ảnh (73%)
+- Qua review lần đầu: 50% (trả lại 50 ảnh)
 - Edge case mới: P-001, P-002.
 
 ## Vướng mắc
